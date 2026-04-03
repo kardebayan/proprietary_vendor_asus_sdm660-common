@@ -99,6 +99,7 @@ PRODUCT_PACKAGES += \
     libGLESv2_adreno \
     libq3dtools_adreno \
     libq3dtools_esx \
+    android.hardware.gatekeeper@1.0-impl-qti \
     android.hardware.keymaster@3.0-impl-qti \
     sensors.sdm660_64 \
     vendor.qti.esepowermanager@1.1-impl \
@@ -205,7 +206,6 @@ PRODUCT_PACKAGES += \
     com.qualcomm.qti.uceservice@2.2_vendor \
     com.qualcomm.qti.uceservice@2.3_vendor \
     android.hardware.bluetooth@1.0-impl-qti \
-    android.hardware.gatekeeper@1.0-impl-qti \
     com.dsi.ant@1.0-impl \
     vendor.qti.gnss@4.0-impl \
     vendor.qti.hardware.alarm@1.0-impl \
